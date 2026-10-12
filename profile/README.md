@@ -17,7 +17,8 @@ Fill in the establishment, responsible parties, rooms and equipment, and get a c
 
 ## Get in touch
 
-Found a bug or have an idea? Open an issue in the relevant repository.
+- 🌐 Website: [laokonlabs.com](https://laokonlabs.com)
+- 🐛 Found a bug or have an idea? Open an issue in the relevant repository.
 
 ---
 *Built in Brazil 🇧🇷*
